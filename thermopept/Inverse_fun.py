@@ -289,5 +289,5 @@ def example_usage():
         print(f"   {status} y={y_val:4.1f} → x={x_val:8.2f} (rel. pos: {rel_pos:.2f})")
 
 
-if __name__ == "__main__":
-    example_usage()
+# if __name__ == "__main__":
+#     example_usage()

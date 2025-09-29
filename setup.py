@@ -4,14 +4,10 @@ import setuptools
 
 NAME             = "hla-thermo"
 AUTHOR           = "Sanjay"
-AUTHOR_EMAIL     = "sanjay dot sondekoppagopalakrishna at monash dot edu
-"
-DESCRIPTION      = "A pipeline for thermostability profiling of HLA-bound peptides
-
-"
+AUTHOR_EMAIL     = "sanjay dot sondekoppagopalakrishna at monash dot edu"
+DESCRIPTION      = "A pipeline for thermostability profiling of HLA-bound peptides"
 LICENSE          = "MIT"
-KEYWORDS         = "thermostability, HLA, immunopeptidomics, peptide, DIA-NN, proteomics, bioinformatics, mass spectrometry, MHC, stability profiling, pipeline
-"
+KEYWORDS         = "thermostability, HLA, immunopeptidomics, peptide, DIA-NN, proteomics, bioinformatics, mass spectrometry, MHC, stability profiling, pipeline"
 URL              = "https://github.com/sanjaysgk/" + NAME
 README           = ".github/README.md"
 CLASSIFIERS      = [
