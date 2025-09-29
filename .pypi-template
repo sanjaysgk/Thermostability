@@ -1,0 +1,46 @@
+a_description_for_the_package: 'A pipeline for thermostability profiling of HLA-bound peptides'
+classifiers:
+- 'Programming Language :: Python :: 3'
+- 'Programming Language :: Python :: 3.10'
+- 'Operating System :: OS Independent'
+- 'Development Status :: 3 - Alpha'
+- 'License :: OSI Approved :: MIT License'
+- 'Topic :: Scientific/Engineering :: Bio-Informatics'
+- 'Topic :: Scientific/Engineering :: Chemistry'
+- 'Topic :: Scientific/Engineering :: Medical Science Apps'
+- 'Intended Audience :: Science/Research'
+- 'Intended Audience :: Healthcare Industry'
+console_scripts: []
+first_year_of_publication: '2025'
+github_account: sanjaysgk
+github_repo_name: Thermostability
+keywords_describing_the_package: 'thermostability, HLA, immunopeptidomics, peptide,
+  DIA-NN, proteomics, bioinformatics, mass spectrometry, MHC, stability profiling,
+  pipeline
+
+  '
+license: MIT
+package_module_name: thermopept
+package_name: hla-thermo
+package_tagline: Profile and visualize the thermostability of HLA-bound peptides in
+  high-throughput experiments.
+package_title: Thermostability Profiling of HLA-bound Peptides
+project_env: .venv
+readme: .github/README.md
+requires:
+- numpy>=1.24
+- pandas>=2.0
+- scipy>=1.11
+- matplotlib>=3.8
+- typer>=0.9
+- rich>=13.3
+scripts: []
+skip: []
+test_requires: []
+version: 1.4.0
+your_author_name: 'Sanjay SG Krishna '
+your_email_address: 'sanjay dot sondekoppagopalakrishna at monash dot edu
+
+  '
+your_full_name: Sanjay SG Krishna
+your_name: Sanjay
