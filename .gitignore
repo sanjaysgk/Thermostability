@@ -12,3 +12,12 @@ docs/_build
 .DS_Store
 local
 data
+*.csv
+*.tsv
+*.h5
+*.h5ad
+*.db
+*.sqlite
+*.pkl
+./*.png
+*.png
